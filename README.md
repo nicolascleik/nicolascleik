@@ -8,7 +8,8 @@
     <a href="https://www.linkedin.com/in/nicolascleik" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:nicolascleick.tingui@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:nicolascleick.tingui@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://www.instagram.com/dev.cleik/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -35,9 +36,9 @@ Software Developer focused on building a solid foundation in **programming logic
 
 <div align="center">
 
-| **Languages** | **Frontend** | **Backend & Tools** | **Architecture & DB** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![OOP](https://img.shields.io/badge/OOP-Design-ff69b4?style=for-the-badge) <br> ![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge) |
+| **Languages & Frontend** | **Backend & Tools** | **Concepts & DB** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![OOP](https://img.shields.io/badge/OOP-Design-ff69b4?style=for-the-badge) <br> ![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge) |
 
 </div>
 
@@ -45,7 +46,7 @@ Software Developer focused on building a solid foundation in **programming logic
 
 ## 📂 Featured Projects
 
-### 🏠 [SmartHouse: Embedded Home Automation](https://github.com/SEU_USER/LINK_DO_REPOSITORIO)
+### 🏠 [SmartHouse: Embedded Home Automation](https://www.linkedin.com/posts/nicolascleik_arduino-automacao-iot-activity-7360757572703793154-GKlX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyo6g4BW0znyoiGoI1CeAw1CSXDQ_XJOds)
 > **Role:** Firmware Engineer & System Architect
 
 An automated smart home system integrating sensors and actuators within a distributed architecture using **Arduino (C++)**.
@@ -91,5 +92,5 @@ An 85-page technical guidebook and hands-on workshop designed to teach Modern Fr
 <br>
 
 <div align="center">
-  <img src="https://github.com/nicolascleik/nicolascleik/blob/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/nicolascleik/nicolascleik/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
