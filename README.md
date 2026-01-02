@@ -11,7 +11,7 @@
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
     <a href="https://cleik.dev/" target="_blank">
-       <img src="https://img.shields.io/badge/Portfolio-cleik.dev-00E0A6?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Website-cleik.dev-00E0A6?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/nicolascleik" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
