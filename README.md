@@ -54,11 +54,31 @@ Software Developer focused on building a solid foundation in **programming logic
 
 ## 📂 Featured Projects
 
+### 🔄 [SaaS Retention Engine: Churn Reduction](https://github.com/nicolascleik/saas-churn-reduction-system)
+> **Role:** Squad Lead & Full Stack Developer
+
+A strategic cancellation flow engineered to reduce Churn rates for a SaaS platform. Features a **"Soft Landing" architecture** (72h scheduled termination) to enable Win-Back strategies.
+* **Architecture:** Decoupled frontend logic using ES6 Modules and integrated with **Firebase Firestore** for real-time analytics.
+* **Leadership:** Led the development squad, implementing agile rituals and code reviews.
+* **Tech:** JavaScript (Modules), Firebase, UX Strategy, Data Analytics.
+
+<br>
+
+### ⚡ [High-Performance Portfolio Engine](https://github.com/nicolascleik/nicolascleik.github.io)
+> **Role:** Frontend Architect
+
+A case study in **Web Performance Optimization (WPO)**. Engineered with a **Framework-less SPA architecture** to achieve perfect **100/100 Lighthouse scores**.
+* **Engineering:** Built a custom **JSON rendering engine** to decouple data from UI, ensuring maintainability without heavy frameworks.
+* **DevOps:** Implemented Cloudflare security rules and CI/CD pipelines for automated deployment.
+* **Tech:** Vanilla JS (ES6+), JSON Architecture, Cloudflare, WPO.
+
+<br>
+
 ### 🏠 [SmartHouse: Embedded Home Automation](https://www.linkedin.com/posts/nicolascleik_arduino-automacao-iot-activity-7360757572703793154-GKlX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyo6g4BW0znyoiGoI1CeAw1CSXDQ_XJOds)
 > **Role:** Firmware Engineer & System Architect
 
 An automated smart home system integrating sensors and actuators within a distributed architecture using **Arduino (C++)**.
-* **Engineering:** Implemented logical division across two microcontrollers to optimize processing load.
+* **Engineering:** Implemented logical division across two microcontrollers to optimize processing load (HAL - Hardware Abstraction Layer).
 * **Features:** RFID Access Control, Ultrasonic Gate Automation, and Rain-Responsive Window Control.
 * **Tech:** C++, Arduino Uno, Electronic Circuit Design.
 
@@ -67,11 +87,10 @@ An automated smart home system integrating sensors and actuators within a distri
 ### 🏋️‍♂️ [GymSystem: Architecture & Core Logic](https://github.com/nicolascleik/GymSystemsTerminal)
 > **Role:** Tech Lead & Core Developer
 
-An academic reservation system engineered to demonstrate **Object-Oriented Programming** principles without external frameworks.
-* **Architecture:** Implemented strict **MVC-like architecture** (Models, Services, Interface).
-* **Persistence:** Engineered a custom file-based ORM to manage 1:N relationships (Student <-> Reservation).
-* **Leadership:** Managed the development lifecycle using **Kanban** and code reviews.
-* **Tech:** Python 3, File I/O, OOP.
+An academic reservation system engineered to demonstrate **Clean Architecture** principles without external frameworks.
+* **Architecture:** Implemented strict **MVC pattern** (Models, Services, Interface) and a custom file-based ORM.
+* **Optimization:** Focused on raw logic efficiency and 1:N relationship management.
+* **Tech:** Python 3, File I/O, OOP, Kanban Leadership.
 
 <br>
 
