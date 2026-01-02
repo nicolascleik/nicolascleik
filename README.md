@@ -89,11 +89,11 @@ An 85-page technical guidebook and hands-on workshop designed to teach Modern Fr
 
 <div align="center">
   <a href="https://github.com/nicolascleik">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolascleik&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Github Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolascleik&theme=tokyonight&show_icons=true&hide_border=true" alt="Github Stats" />
   </a>
   
   <a href="https://github.com/nicolascleik">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascleik&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolascleik&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
   </a>
 </div>
 
