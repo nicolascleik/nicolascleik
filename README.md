@@ -1,10 +1,18 @@
 <div align="center">
+  
+  <a href="https://cleik.dev/" target="_blank">
+    <img src="favicon.png" width="120" alt="Logo Cleik.dev" style="margin-bottom: 15px;"/>
+  </a>
+
   <h1 style="font-size: 2.5rem; font-weight: 800;">NICOLAS CLEIK</h1>
   <p style="font-size: 1.2rem; font-weight: 400; color: #a2a2e0;">
     Software Developer | Python (OOP), JavaScript & SQL | Computer Science Student
   </p>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+    <a href="https://cleik.dev/" target="_blank">
+       <img src="https://img.shields.io/badge/Portfolio-cleik.dev-00E0A6?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
+    </a>
     <a href="https://www.linkedin.com/in/nicolascleik" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -81,7 +89,7 @@ An 85-page technical guidebook and hands-on workshop designed to teach Modern Fr
 
 <div align="center">
   <a href="https://github.com/nicolascleik">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolascleik&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" alt="Github Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolascleik&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Github Stats" />
   </a>
   
   <a href="https://github.com/nicolascleik">
